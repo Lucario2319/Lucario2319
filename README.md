@@ -3,8 +3,8 @@
 ## About Me
 I am a budding full stack developer with a passion for NextJS. I love working on customized websites that makes a brand stand out and clearly portrays their vision.
 
-- 🔭 I’m currently working on custom SaaS website
-- 🌱 I’m currently learning some advanced NextJS concepts & exploring .NET MVC
+- 🔭 I’m currently working on freelance work for a US real-estate startup
+- 🌱 I’m currently learning more about integrating AI in fullstack application
 - 👯 I’m looking to collaborate on full stack educational/lms based websites
 - 💬 Ask me about NextJS, Web Development, Animes and Pokémon ;)
 - 📫 How to reach me: abdulrafay23190@gmail.com
